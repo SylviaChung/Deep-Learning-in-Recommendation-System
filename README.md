@@ -21,5 +21,18 @@ A joint research analyzed by people from Duke University and Meta, has developed
 #Limitation 
 ![image](https://github.com/user-attachments/assets/7965467f-93be-48b2-8f34-c2e4b8be90e4)
 
+#Solutions
+![image](https://github.com/user-attachments/assets/a4116fd2-e1f2-44fb-996a-299701ec66d7)
+
+----------------------------------------------------------------------------------------------------------------------------------------------------
+# Part 3 - Outcomes
+1. Created a new model, NASRec, to increase performance:
+-Improving model performance through NASRec, which can automatically explore the best architecture to adapt to heterogeneous data
+-Reduce reliance on manual design through hypernetwork strategy.
+
+2. Showed the progress of Weight-sharing NAS in recommender systems:
+-Improve the learning efficiency and effectiveness of the model through balancing and coordinating the interactions between different operators
+![image](https://github.com/user-attachments/assets/92e22161-3e67-436c-a981-a4b844c093b8)
+
 
 
