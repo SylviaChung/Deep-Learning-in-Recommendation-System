@@ -27,11 +27,11 @@ A joint research analyzed by people from Duke University and Meta, has developed
 ----------------------------------------------------------------------------------------------------------------------------------------------------
 # Part 3 - Outcomes
 1. Created a new model, NASRec, to increase performance:
--Improving model performance through NASRec, which can automatically explore the best architecture to adapt to heterogeneous data
--Reduce reliance on manual design through hypernetwork strategy.
+--Improving model performance through NASRec, which can automatically explore the best architecture to adapt to heterogeneous data
+--Reduce reliance on manual design through hypernetwork strategy.
 
 2. Showed the progress of Weight-sharing NAS in recommender systems:
--Improve the learning efficiency and effectiveness of the model through balancing and coordinating the interactions between different operators
+--Improve the learning efficiency and effectiveness of the model through balancing and coordinating the interactions between different operators
 ![image](https://github.com/user-attachments/assets/92e22161-3e67-436c-a981-a4b844c093b8)
 
 
